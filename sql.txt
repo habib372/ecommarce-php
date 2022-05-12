@@ -1,0 +1,1 @@
+select u.id,u.username,u.password,u.role_id,r.name role,u.inactive from cms_users u,cms_roles r where r.id=u.role_id

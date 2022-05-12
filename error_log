@@ -1,0 +1,138 @@
+[05-Oct-2020 14:58:54 Europe/Berlin] PHP Warning:  Use of undefined constant SEVER - assumed 'SEVER' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\php7\cms\db_config.php on line 7
+[05-Oct-2020 14:58:57 Europe/Berlin] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: No such host is known.  in C:\xampp\htdocs\php7\cms\db_config.php on line 7
+[05-Oct-2020 14:58:57 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: No such host is known.  in C:\xampp\htdocs\php7\cms\db_config.php on line 7
+[05-Oct-2020 14:59:16 Europe/Berlin] PHP Warning:  Use of undefined constant SEVER - assumed 'SEVER' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\php7\cms\db_config.php on line 7
+[05-Oct-2020 14:59:18 Europe/Berlin] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: No such host is known.  in C:\xampp\htdocs\php7\cms\db_config.php on line 7
+[05-Oct-2020 14:59:18 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: No such host is known.  in C:\xampp\htdocs\php7\cms\db_config.php on line 7
+[05-Oct-2020 15:03:28 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on boolean in C:\xampp\htdocs\php7\cms\index.php:14
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\php7\cms\index.php on line 14
+[05-Oct-2020 15:03:34 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on boolean in C:\xampp\htdocs\php7\cms\index.php:14
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\php7\cms\index.php on line 14
+[05-Oct-2020 15:06:14 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on boolean in C:\xampp\htdocs\php7\cms\index.php:14
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\php7\cms\index.php on line 14
+[06-Oct-2020 12:35:32 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on boolean in C:\xampp\htdocs\php7\cms\pages\manage_user.php:133
+Stack trace:
+#0 C:\xampp\htdocs\php7\cms\include\content_wrapper.php(16): include()
+#1 C:\xampp\htdocs\php7\cms\home.php(42): include('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\php7\cms\pages\manage_user.php on line 133
+[06-Oct-2020 12:37:41 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on boolean in C:\xampp\htdocs\php7\cms\pages\manage_user.php:134
+Stack trace:
+#0 C:\xampp\htdocs\php7\cms\include\content_wrapper.php(16): include()
+#1 C:\xampp\htdocs\php7\cms\home.php(42): include('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\php7\cms\pages\manage_user.php on line 134
+[06-Oct-2020 14:59:38 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on boolean in C:\xampp\htdocs\php7\cms\models\User.class.php:63
+Stack trace:
+#0 C:\xampp\htdocs\php7\cms\pages\manage_user.php(132): UserController::get_users2()
+#1 C:\xampp\htdocs\php7\cms\include\content_wrapper.php(16): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\php7\cms\home.php(43): include('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\php7\cms\models\User.class.php on line 63
+[06-Oct-2020 15:01:48 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on boolean in C:\xampp\htdocs\php7\cms\models\User.class.php:64
+Stack trace:
+#0 C:\xampp\htdocs\php7\cms\pages\manage_user.php(132): UserController::get_users2()
+#1 C:\xampp\htdocs\php7\cms\include\content_wrapper.php(16): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\php7\cms\home.php(43): include('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\php7\cms\models\User.class.php on line 64
+[06-Oct-2020 15:02:50 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot access private property UserView::$id in C:\xampp\htdocs\php7\cms\pages\manage_user.php:136
+Stack trace:
+#0 C:\xampp\htdocs\php7\cms\include\content_wrapper.php(16): include()
+#1 C:\xampp\htdocs\php7\cms\home.php(43): include('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\php7\cms\pages\manage_user.php on line 136
+[06-Oct-2020 15:03:19 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot access private property UserView::$id in C:\xampp\htdocs\php7\cms\pages\manage_user.php:136
+Stack trace:
+#0 C:\xampp\htdocs\php7\cms\include\content_wrapper.php(16): include()
+#1 C:\xampp\htdocs\php7\cms\home.php(43): include('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\php7\cms\pages\manage_user.php on line 136
+[27-Dec-2020 17:03:02 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in G:\webserver\www\student\round45\habibsoft\bikebd\db_config.php on line 19
+[27-Dec-2020 18:01:21 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in G:\webserver\www\student\round45\habibsoft\bikebd\db_config.php on line 19
+[18-Jan-2021 18:12:34 UTC] PHP Fatal error:  Uncaught Error: Class 'NewPurchase' not found in G:\webserver\www\student\round45\habibsoft\bikebd\pages\manage_invoice.php:60
+Stack trace:
+#0 G:\webserver\www\student\round45\habibsoft\bikebd\include\content_wrapper.php(37): include()
+#1 G:\webserver\www\student\round45\habibsoft\bikebd\home.php(74): include('G:\\webserver\\ww...')
+#2 {main}
+  thrown in G:\webserver\www\student\round45\habibsoft\bikebd\pages\manage_invoice.php on line 60
+[27-Jan-2021 13:43:28 UTC] PHP Warning:  A non-numeric value encountered in G:\webserver\www\student\round45\habibsoft\bikebd\pages\create_invoice.php on line 59
+[27-Jan-2021 13:43:28 UTC] PHP Warning:  A non-numeric value encountered in G:\webserver\www\student\round45\habibsoft\bikebd\pages\create_invoice.php on line 59
+[01-Feb-2021 09:54:57 UTC] PHP Warning:  A non-numeric value encountered in G:\webserver\www\student\round45\habibsoft\bikebd\models\supplier_class.php on line 72
+[01-Feb-2021 09:54:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in G:\webserver\www\student\round45\habibsoft\bikebd\models\supplier_class.php:80
+Stack trace:
+#0 G:\webserver\www\student\round45\habibsoft\bikebd\pages\manage_supplier.php(128): SupplierView::get_suppliers('')
+#1 G:\webserver\www\student\round45\habibsoft\bikebd\include\content_wrapper.php(40): include('G:\\webserver\\ww...')
+#2 G:\webserver\www\student\round45\habibsoft\bikebd\home.php(75): include('G:\\webserver\\ww...')
+#3 {main}
+  thrown in G:\webserver\www\student\round45\habibsoft\bikebd\models\supplier_class.php on line 80
+[09-Feb-2021 09:45:43 UTC] PHP Notice:  Undefined index: s_username in G:\webserver\www\student\round45\habibsoft\bikebd\include\main_sidebar.php on line 26
+[25-Apr-2021 01:01:28 UTC] PHP Notice:  Undefined index: s_username in G:\webserver\www\student\round45\habibsoft\bikebd\include\main_sidebar.php on line 26
+[09-Jul-2021 08:29:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on bool in G:\webserver\www\student\round45\habibsoft\bikebd\pages\manage_user.php:243
+Stack trace:
+#0 G:\webserver\www\student\round45\habibsoft\bikebd\include\content_wrapper.php(23): include()
+#1 G:\webserver\www\student\round45\habibsoft\bikebd\home.php(75): include('G:\\webserver\\ww...')
+#2 {main}
+  thrown in G:\webserver\www\student\round45\habibsoft\bikebd\pages\manage_user.php on line 243
+[31-Aug-2021 17:31:46 UTC] PHP Fatal error:  Uncaught Error: Class 'NewPurchase' not found in G:\webserver\www\student\round45\habibsoft\bikebd\pages\manage_invoice.php:60
+Stack trace:
+#0 G:\webserver\www\student\round45\habibsoft\bikebd\include\content_wrapper.php(37): include()
+#1 G:\webserver\www\student\round45\habibsoft\bikebd\home.php(75): include('G:\\webserver\\ww...')
+#2 {main}
+  thrown in G:\webserver\www\student\round45\habibsoft\bikebd\pages\manage_invoice.php on line 60
+[31-Aug-2021 17:33:57 UTC] PHP Fatal error:  Uncaught Error: Class 'NewPurchase' not found in G:\webserver\www\student\round45\habibsoft\bikebd\pages\manage_invoice.php:60
+Stack trace:
+#0 G:\webserver\www\student\round45\habibsoft\bikebd\include\content_wrapper.php(37): include()
+#1 G:\webserver\www\student\round45\habibsoft\bikebd\home.php(75): include('G:\\webserver\\ww...')
+#2 {main}
+  thrown in G:\webserver\www\student\round45\habibsoft\bikebd\pages\manage_invoice.php on line 60
+[31-Aug-2021 17:34:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on bool in G:\webserver\www\student\round45\habibsoft\bikebd\pages\manage_user.php:243
+Stack trace:
+#0 G:\webserver\www\student\round45\habibsoft\bikebd\include\content_wrapper.php(23): include()
+#1 G:\webserver\www\student\round45\habibsoft\bikebd\home.php(75): include('G:\\webserver\\ww...')
+#2 {main}
+  thrown in G:\webserver\www\student\round45\habibsoft\bikebd\pages\manage_user.php on line 243
+[31-Aug-2021 18:13:20 UTC] PHP Notice:  Undefined index: s_username in G:\webserver\www\student\round45\habibsoft\bikebd\include\main_sidebar.php on line 26
+[31-Aug-2021 18:13:21 UTC] PHP Notice:  Undefined index: s_username in G:\webserver\www\student\round45\habibsoft\bikebd\include\main_sidebar.php on line 26
+[08-Oct-2021 09:03:07 UTC] PHP Fatal error:  Uncaught Error: Class 'NewPurchase' not found in G:\webserver\www\student\round45\habibsoft\bikebd\pages\manage_invoice.php:60
+Stack trace:
+#0 G:\webserver\www\student\round45\habibsoft\bikebd\include\content_wrapper.php(37): include()
+#1 G:\webserver\www\student\round45\habibsoft\bikebd\home.php(75): include('G:\\webserver\\ww...')
+#2 {main}
+  thrown in G:\webserver\www\student\round45\habibsoft\bikebd\pages\manage_invoice.php on line 60
+[08-Nov-2021 17:56:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on bool in G:\webserver\www\student\round45\habibsoft\bikebd\pages\manage_user.php:243
+Stack trace:
+#0 G:\webserver\www\student\round45\habibsoft\bikebd\include\content_wrapper.php(23): include()
+#1 G:\webserver\www\student\round45\habibsoft\bikebd\home.php(75): include('G:\\webserver\\ww...')
+#2 {main}
+  thrown in G:\webserver\www\student\round45\habibsoft\bikebd\pages\manage_user.php on line 243
+[08-Nov-2021 17:56:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on bool in G:\webserver\www\student\round45\habibsoft\bikebd\pages\manage_user.php:243
+Stack trace:
+#0 G:\webserver\www\student\round45\habibsoft\bikebd\include\content_wrapper.php(23): include()
+#1 G:\webserver\www\student\round45\habibsoft\bikebd\home.php(75): include('G:\\webserver\\ww...')
+#2 {main}
+  thrown in G:\webserver\www\student\round45\habibsoft\bikebd\pages\manage_user.php on line 243
+[24-Dec-2021 01:45:09 UTC] PHP Fatal error:  Uncaught Error: Class 'NewPurchase' not found in G:\webserver\www\student\round45\habibsoft\bikebd\pages\manage_invoice.php:60
+Stack trace:
+#0 G:\webserver\www\student\round45\habibsoft\bikebd\include\content_wrapper.php(37): include()
+#1 G:\webserver\www\student\round45\habibsoft\bikebd\home.php(75): include('G:\\webserver\\ww...')
+#2 {main}
+  thrown in G:\webserver\www\student\round45\habibsoft\bikebd\pages\manage_invoice.php on line 60
+[24-Dec-2021 01:45:15 UTC] PHP Fatal error:  Uncaught Error: Class 'NewPurchase' not found in G:\webserver\www\student\round45\habibsoft\bikebd\pages\manage_invoice.php:60
+Stack trace:
+#0 G:\webserver\www\student\round45\habibsoft\bikebd\include\content_wrapper.php(37): include()
+#1 G:\webserver\www\student\round45\habibsoft\bikebd\home.php(75): include('G:\\webserver\\ww...')
+#2 {main}
+  thrown in G:\webserver\www\student\round45\habibsoft\bikebd\pages\manage_invoice.php on line 60
+[24-Dec-2021 01:45:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on bool in G:\webserver\www\student\round45\habibsoft\bikebd\pages\manage_user.php:243
+Stack trace:
+#0 G:\webserver\www\student\round45\habibsoft\bikebd\include\content_wrapper.php(23): include()
+#1 G:\webserver\www\student\round45\habibsoft\bikebd\home.php(75): include('G:\\webserver\\ww...')
+#2 {main}
+  thrown in G:\webserver\www\student\round45\habibsoft\bikebd\pages\manage_user.php on line 243

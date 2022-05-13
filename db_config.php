@@ -1,5 +1,4 @@
 <?php
-
     define("SERVER","localhost");
     define("USER","root");
     define("PWD","");
@@ -7,7 +6,6 @@
 
     $ex="bike_";
     $db=new mysqli(SERVER,USER,PWD,DB);
-    
 ?>
 
 

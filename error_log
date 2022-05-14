@@ -132,7 +132,4 @@ Stack trace:
   thrown in G:\webserver\www\student\round45\habibsoft\bikebd\pages\manage_invoice.php on line 60
 [24-Dec-2021 01:45:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on bool in G:\webserver\www\student\round45\habibsoft\bikebd\pages\manage_user.php:243
 Stack trace:
-#0 G:\webserver\www\student\round45\habibsoft\bikebd\include\content_wrapper.php(23): include()
-#1 G:\webserver\www\student\round45\habibsoft\bikebd\home.php(75): include('G:\\webserver\\ww...')
-#2 {main}
-  thrown in G:\webserver\www\student\round45\habibsoft\bikebd\pages\manage_user.php on line 243
+

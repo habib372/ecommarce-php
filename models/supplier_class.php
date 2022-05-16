@@ -37,7 +37,6 @@
             global $ex;
             $db->query("delete from {$ex}suppliers where id='$id'");
 
-
         }
     }
                 

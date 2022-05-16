@@ -40,8 +40,7 @@
 
         }
     }
-        
-        
+                
     class SupplierView{
             public $id;
             public $supplier_name;
@@ -57,9 +56,7 @@
                 $this->email=$email;
                 $this->address=$address;
                 $this->city=$city;
-            }
-        
-
+            }        
 
         public static function get_suppliers($page){
             global $db;
@@ -86,6 +83,5 @@
         }
 
     } 
-
 
 ?>

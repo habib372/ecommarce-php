@@ -86,7 +86,6 @@ scratch. This page gets rid of all links and provides the needed markup only.
 </div>
 <!-- ./wrapper -->
 
-
 <!-- REQUIRED SCRIPTS -->
 <!-- jQuery -->
 <script src="asset/AdminLTE-3.0.5/plugins/jquery/jquery.min.js"></script>

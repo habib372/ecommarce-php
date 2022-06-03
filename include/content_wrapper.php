@@ -7,7 +7,6 @@
 <div class="content-wrapper bgaa">
     
     <?php
-       
        if(isset($_GET["page"])){
 
            $page=$_GET["page"];

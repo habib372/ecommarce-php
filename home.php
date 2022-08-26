@@ -16,7 +16,6 @@
         width:67px;
         align:center;
         padding-top:3px;
-        
        }
 </style>
 

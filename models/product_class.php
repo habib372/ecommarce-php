@@ -17,8 +17,7 @@
             $this->brand=$brand;
             $this->price=$price;
             $this->img_name=$img_name;
-            
-            
+                        
         }
         public function save(){
             global $db;

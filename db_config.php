@@ -6,6 +6,7 @@
 
     $ex="bike_";
     $db=new mysqli(SERVER,USER,PWD,DB);
+
 ?>
 
 
